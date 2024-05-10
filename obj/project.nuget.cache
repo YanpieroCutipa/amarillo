@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "PguoLfCqs6M5vIyyDRvb2psP1qoZ/YPSA+nHAz98PtYNIpzwT2LG11uLAgiEJD9yQDw9FruplmfqGwjOgBF4dA==",
   "success": true,
   "projectFilePath": "C:\\Users\\yanpi\\Downloads\\amarillo\\amarillo.csproj",
+=======
+  "dgSpecHash": "8cTk51YVR2v1oMO4qyh7CScR6mCMv8XS5FkKs9zeQTEcdf6XJwZuYt7fFNRzPkIvedOsODDcPVstfI+IME1vzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RODRIGO\\Desktop\\PROGRA_I\\Amarillo\\amarillo\\amarillo.csproj",
+>>>>>>> origin/siguiente-rama
   "expectedPackageFiles": [],
   "logs": []
 }
