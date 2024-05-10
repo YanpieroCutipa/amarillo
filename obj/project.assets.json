@@ -8,27 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\RODRIGO\\.nuget\\packages\\": {}
+    "C:\\Users\\yanpi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\yanpi\\Downloads\\amarillo\\amarillo.csproj",
       "projectName": "amarillo",
       "projectPath": "C:\\Users\\yanpi\\Downloads\\amarillo\\amarillo.csproj",
       "packagesPath": "C:\\Users\\yanpi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\yanpi\\Downloads\\amarillo\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\RODRIGO\\Desktop\\PROGRA_I\\Amarillo\\amarillo\\amarillo.csproj",
-      "projectName": "amarillo",
-      "projectPath": "C:\\Users\\RODRIGO\\Desktop\\PROGRA_I\\Amarillo\\amarillo\\amarillo.csproj",
-      "packagesPath": "C:\\Users\\RODRIGO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RODRIGO\\Desktop\\PROGRA_I\\Amarillo\\amarillo\\obj\\",
->>>>>>> origin/siguiente-rama
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\RODRIGO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\yanpi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -78,5 +70,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\yanpi\\Downloads\\amarillo\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
