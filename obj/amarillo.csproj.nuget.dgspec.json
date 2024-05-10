@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UNIVERSIDAD\\amarillo\\amarillo.csproj": {}
+    "C:\\Users\\RODRIGO\\Desktop\\PROGRA_I\\Amarillo\\amarillo\\amarillo.csproj": {}
   },
   "projects": {
-    "D:\\UNIVERSIDAD\\amarillo\\amarillo.csproj": {
+    "C:\\Users\\RODRIGO\\Desktop\\PROGRA_I\\Amarillo\\amarillo\\amarillo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UNIVERSIDAD\\amarillo\\amarillo.csproj",
+        "projectUniqueName": "C:\\Users\\RODRIGO\\Desktop\\PROGRA_I\\Amarillo\\amarillo\\amarillo.csproj",
         "projectName": "amarillo",
-        "projectPath": "D:\\UNIVERSIDAD\\amarillo\\amarillo.csproj",
-        "packagesPath": "C:\\Users\\yanpi\\.nuget\\packages\\",
-        "outputPath": "D:\\UNIVERSIDAD\\amarillo\\obj\\",
+        "projectPath": "C:\\Users\\RODRIGO\\Desktop\\PROGRA_I\\Amarillo\\amarillo\\amarillo.csproj",
+        "packagesPath": "C:\\Users\\RODRIGO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RODRIGO\\Desktop\\PROGRA_I\\Amarillo\\amarillo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yanpi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\RODRIGO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
